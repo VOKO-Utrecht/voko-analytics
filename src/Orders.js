@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useFetch } from 'react-fetch-hook';
+import useFetch from 'react-fetch-hook';
 import { Box, Typography } from '@material-ui/core';
 import Settings from './Legend.js';
 import colors from './colors.js';
